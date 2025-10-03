@@ -1,6 +1,6 @@
 {
     'name': 'Enterprise Unlocker',
-    'version': '18.0.1.0.0',
+    'version': '1.0.0',
     'summary': 'This modules overrides the enterprise check',
     'description': 'Este módulo depende de mail y es solo para pruebas.',
     'author': 'zadxdaz',
